@@ -1,0 +1,2 @@
+# LaboHerencia
+ laboratorio de herencia 
